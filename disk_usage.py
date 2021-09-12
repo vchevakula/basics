@@ -1,8 +1,8 @@
 import shutil
   
 # Path
-path = "/home/User/Documents"
-  
+path = "/home/vchevakula/"
+
 # Get the disk usage statistics
 # about the given path
 stat = shutil.disk_usage(path)
